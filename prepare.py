@@ -37,7 +37,7 @@ def prep_env():
         "total_size": 245,
         "lstm_layer": 2,
         "dropout": 0.05,
-        "num_workers": 5,
+        "num_workers": 1,
         "train_epochs": 10,
         "batch_size": 32,
         "patience": 3,
